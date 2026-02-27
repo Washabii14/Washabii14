@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vu Hai Dang Pham
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dang Pham
 =========================================================================================================================================
 
 I am an Automation Test Engineer, adaptable software professional with a passion for the automotive domain and a strong foundation in embedded systems.
@@ -20,7 +20,9 @@ src="https://img.shields.io/github/followers/washabii14?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/washabii14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=washabii14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/washabii14"><img src="https://github-readme-stats.vercel.app/api?username=washabii14&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="washabii14's GitHub stats" /></a>
+
+<a href="http://www.github.com/washabii14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=washabii14&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
